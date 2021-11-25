@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-#MIT LICENCE
+#MIT LICENSE
 #AUTHORS: BELÉN SERRANO, CLEMENTE F. ARIAS AND GERARDO E. OLEAGA
 
 import random
