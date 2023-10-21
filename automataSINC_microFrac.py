@@ -8,6 +8,8 @@ import numpy as np
 import copy
 from numba import jit
 
+import numpy as np 
+
 def readInitialitationB(fileName):
     
     with open(fileName, "r") as f:
